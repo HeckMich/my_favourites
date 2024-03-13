@@ -4,4 +4,4 @@
 2. Daytona
 3. Martinsville
 4. Atlanta
-5. Indy
+5. Talladega
